@@ -25,6 +25,7 @@ Crea un entorno virtual utilizando venv o virtualenv. Puedes usar uno de los sig
 En sistemas Unix/Linux:
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 En sistemas Windows:
