@@ -47,3 +47,7 @@ Esto instalará todas las dependencias necesarias para el proyecto en el entorno
 Paso 4: Ejecutar el proyecto
 
 Una vez que todas las dependencias estén instaladas, puedes ejecutar el proyecto según las instrucciones proporcionadas en el README o la documentación del proyecto. Por lo general, esto implica ejecutar un servidor de desarrollo o realizar otras acciones específicas según las necesidades del proyecto.
+
+correr el comando python manage.py runserver
+
+y se ejecutará el proyecto en el puerto 8000
