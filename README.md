@@ -31,7 +31,9 @@ source venv/bin/activate
 En sistemas Windows:
 
 python -m venv venv
+
 venv\Scripts\activate
+
 El entorno virtual se activará, y deberías ver el nombre del entorno virtual en el indicador de la línea de comandos.
 
 Paso 3: Instalar dependencias
